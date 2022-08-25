@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="19" passed="17" failed="1" skipped="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Checkin Log Priyanka]]>
+    </line>
+    <line>
+      <![CDATA[Checking log Priyanka]]>
+    </line>
+    <line>
+      <![CDATA[Checking log Priyanka]]>
+    </line>
+    <line>
+      <![CDATA[Checking log Priyanka]]>
+    </line>
+    <line>
+      <![CDATA[Checking log Priyanka]]>
+    </line>
+    <line>
+      <![CDATA[Checking log Priyanka]]>
+    </line>
+    <line>
+      <![CDATA[Checking log Priyanka]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-08-17T19:23:49 EDT" name="Suite" finished-at="2022-08-17T19:23:49 EDT" duration-ms="198">
+    <groups>
+    </groups>
+    <test started-at="2022-08-17T19:23:49 EDT" name="Test" finished-at="2022-08-17T19:23:49 EDT" duration-ms="198">
+      <class name="annotation_sequence.AnnotationsM2">
+        <test-method signature="Method1()[pri:0, instance:annotation_sequence.AnnotationsM2@53fdffa1]" started-at="2022-08-17T19:23:49 EDT" name="Method1" finished-at="2022-08-17T19:23:49 EDT" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Method1 -->
+      </class> <!-- annotation_sequence.AnnotationsM2 -->
+      <class name="annotation_sequence.AnnotationSequenceTNG">
+        <test-method is-config="true" signature="BeforeSuite()[pri:0, instance:annotation_sequence.AnnotationSequenceTNG@4d465b11]" started-at="2022-08-17T19:23:49 EDT" name="BeforeSuite" finished-at="2022-08-17T19:23:49 EDT" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeSuite -->
+        <test-method is-config="true" signature="BeforeTest()[pri:0, instance:annotation_sequence.AnnotationSequenceTNG@4d465b11]" started-at="2022-08-17T19:23:49 EDT" name="BeforeTest" finished-at="2022-08-17T19:23:49 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method is-config="true" signature="BeforeClass()[pri:0, instance:annotation_sequence.AnnotationSequenceTNG@4d465b11]" started-at="2022-08-17T19:23:49 EDT" name="BeforeClass" finished-at="2022-08-17T19:23:49 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeClass -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:annotation_sequence.AnnotationSequenceTNG@4d465b11]" started-at="2022-08-17T19:23:49 EDT" name="BeforeMethod" finished-at="2022-08-17T19:23:49 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="TestCase1()[pri:0, instance:annotation_sequence.AnnotationSequenceTNG@4d465b11]" started-at="2022-08-17T19:23:49 EDT" name="TestCase1" finished-at="2022-08-17T19:23:49 EDT" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase1 -->
+        <test-method is-config="true" signature="AfteMethod()[pri:0, instance:annotation_sequence.AnnotationSequenceTNG@4d465b11]" started-at="2022-08-17T19:23:49 EDT" name="AfteMethod" finished-at="2022-08-17T19:23:49 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfteMethod -->
+        <test-method is-config="true" signature="AfterClass()[pri:0, instance:annotation_sequence.AnnotationSequenceTNG@4d465b11]" started-at="2022-08-17T19:23:49 EDT" name="AfterClass" finished-at="2022-08-17T19:23:49 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterClass -->
+        <test-method is-config="true" signature="AfterTest()[pri:0, instance:annotation_sequence.AnnotationSequenceTNG@4d465b11]" started-at="2022-08-17T19:23:49 EDT" name="AfterTest" finished-at="2022-08-17T19:23:49 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTest -->
+        <test-method is-config="true" signature="AfterSuite()[pri:0, instance:annotation_sequence.AnnotationSequenceTNG@4d465b11]" started-at="2022-08-17T19:23:49 EDT" name="AfterSuite" finished-at="2022-08-17T19:23:49 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterSuite -->
+      </class> <!-- annotation_sequence.AnnotationSequenceTNG -->
+      <class name="sequenceoftestcases.CheckingTestCaseSequence">
+        <test-method signature="TestCase4()[pri:-1, instance:sequenceoftestcases.CheckingTestCaseSequence@31e5415e]" started-at="2022-08-17T19:23:49 EDT" name="TestCase4" finished-at="2022-08-17T19:23:49 EDT" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase4 -->
+        <test-method signature="TestCase1()[pri:0, instance:sequenceoftestcases.CheckingTestCaseSequence@31e5415e]" started-at="2022-08-17T19:23:49 EDT" name="TestCase1" finished-at="2022-08-17T19:23:49 EDT" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase1 -->
+        <test-method signature="Testcase2()[pri:1, instance:sequenceoftestcases.CheckingTestCaseSequence@31e5415e]" started-at="2022-08-17T19:23:49 EDT" name="Testcase2" finished-at="2022-08-17T19:23:49 EDT" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase2 -->
+        <test-method signature="TestCase3()[pri:2, instance:sequenceoftestcases.CheckingTestCaseSequence@31e5415e]" started-at="2022-08-17T19:23:49 EDT" name="TestCase3" finished-at="2022-08-17T19:23:49 EDT" duration-ms="4" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Checkin Log Priyanka]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TestCase3 -->
+      </class> <!-- sequenceoftestcases.CheckingTestCaseSequence -->
+      <class name="keywords_useTestTNG.KeywordsUse">
+        <test-method signature="TestCase4()[pri:0, instance:keywords_useTestTNG.KeywordsUse@4d0f2471]" started-at="2022-08-17T19:23:49 EDT" name="TestCase4" finished-at="2022-08-17T19:23:49 EDT" duration-ms="3" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Checking log Priyanka]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TestCase4 -->
+        <test-method signature="TestCase4()[pri:0, instance:keywords_useTestTNG.KeywordsUse@4d0f2471]" started-at="2022-08-17T19:23:49 EDT" name="TestCase4" finished-at="2022-08-17T19:23:49 EDT" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Checking log Priyanka]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TestCase4 -->
+        <test-method signature="TestCase4()[pri:0, instance:keywords_useTestTNG.KeywordsUse@4d0f2471]" started-at="2022-08-17T19:23:49 EDT" name="TestCase4" finished-at="2022-08-17T19:23:49 EDT" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Checking log Priyanka]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TestCase4 -->
+        <test-method signature="TestCase4()[pri:0, instance:keywords_useTestTNG.KeywordsUse@4d0f2471]" started-at="2022-08-17T19:23:49 EDT" name="TestCase4" finished-at="2022-08-17T19:23:49 EDT" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Checking log Priyanka]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TestCase4 -->
+        <test-method signature="TestCase4()[pri:0, instance:keywords_useTestTNG.KeywordsUse@4d0f2471]" started-at="2022-08-17T19:23:49 EDT" name="TestCase4" finished-at="2022-08-17T19:23:49 EDT" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Checking log Priyanka]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TestCase4 -->
+        <test-method signature="TestCase2()[pri:1, instance:keywords_useTestTNG.KeywordsUse@4d0f2471]" started-at="2022-08-17T19:23:49 EDT" name="TestCase2" finished-at="2022-08-17T19:23:49 EDT" duration-ms="5" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [false] but found [true]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [false] but found [true]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+at org.testng.Assert.assertEquals(Assert.java:122)
+at org.testng.Assert.assertEquals(Assert.java:819)
+at org.testng.Assert.assertEquals(Assert.java:829)
+at keywords_useTestTNG.KeywordsUse.TestCase2(KeywordsUse.java:27)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase2 -->
+        <test-method signature="TestCase1()[pri:-1, instance:keywords_useTestTNG.KeywordsUse@4d0f2471]" started-at="2022-08-17T19:23:49 EDT" name="TestCase1" finished-at="2022-08-17T19:23:49 EDT" depends-on-methods="keywords_useTestTNG.KeywordsUse.TestCase2" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Throwable">
+            <message>
+              <![CDATA[Method KeywordsUse.TestCase1()[pri:-1, instance:keywords_useTestTNG.KeywordsUse@4d0f2471] depends on not successfully finished methods]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Throwable: Method KeywordsUse.TestCase1()[pri:-1, instance:keywords_useTestTNG.KeywordsUse@4d0f2471] depends on not successfully finished methods
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:102)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Throwable -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase1 -->
+        <test-method signature="TestCase3()[pri:2, instance:keywords_useTestTNG.KeywordsUse@4d0f2471]" started-at="2022-08-17T19:23:49 EDT" name="TestCase3" finished-at="2022-08-17T19:23:49 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase3 -->
+      </class> <!-- keywords_useTestTNG.KeywordsUse -->
+      <class name="sequenceoftestcases.WithoutPriority">
+        <test-method signature="TestCase4()[pri:0, instance:sequenceoftestcases.WithoutPriority@15aab8c6]" started-at="2022-08-17T19:23:49 EDT" name="TestCase4" finished-at="2022-08-17T19:23:49 EDT" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Checking log Priyanka]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TestCase4 -->
+        <test-method signature="aTestCase()[pri:0, instance:sequenceoftestcases.WithoutPriority@15aab8c6]" started-at="2022-08-17T19:23:49 EDT" name="aTestCase" finished-at="2022-08-17T19:23:49 EDT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aTestCase -->
+        <test-method signature="aTestCase1()[pri:0, instance:sequenceoftestcases.WithoutPriority@15aab8c6]" started-at="2022-08-17T19:23:49 EDT" name="aTestCase1" finished-at="2022-08-17T19:23:49 EDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aTestCase1 -->
+        <test-method signature="aTestCase2()[pri:0, instance:sequenceoftestcases.WithoutPriority@15aab8c6]" started-at="2022-08-17T19:23:49 EDT" name="aTestCase2" finished-at="2022-08-17T19:23:49 EDT" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aTestCase2 -->
+      </class> <!-- sequenceoftestcases.WithoutPriority -->
+      <class name="annotation_sequence.AnnotationM1">
+        <test-method signature="Method1()[pri:0, instance:annotation_sequence.AnnotationM1@7133da86]" started-at="2022-08-17T19:23:49 EDT" name="Method1" finished-at="2022-08-17T19:23:49 EDT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Method1 -->
+      </class> <!-- annotation_sequence.AnnotationM1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
